@@ -20,7 +20,6 @@ This list of individuals is still growing. Nonetheless, these are our sincerest 
  * Pedro Faria
  * Raphael Michel
  * Raul Tavares
- * Telmo Guerra
  * Tobias Kunze
  * Victor Duarte
 
